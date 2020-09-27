@@ -18,7 +18,7 @@ const Contact = ({ data }) => {
     return (
       <section id="contact">
 
-         <div className="row section-head">
+         {/* <div className="row section-head">
 
             <div className="two columns header-col">
 
@@ -92,7 +92,7 @@ const Contact = ({ data }) => {
 
 		         </div>
             </aside>
-      </div>
+      </div> */}
    </section>
     );
 }

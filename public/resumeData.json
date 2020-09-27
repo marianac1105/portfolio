@@ -1,138 +1,143 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Mariana Cerqueira",
+    "occupation": "Front End Developer",
+    "description": "My focus is turning ideas into delightful and meaningful solutions",
+    "image": "profile3.png",
+    "bio": "Hi, I'm a Front End web developer currently working at Helloworld Travel. I have a passion for self-learning and strive to improve and challenge my skills to become better at what I do.",
+    "contactmessage": "",
+    "email": "marianac1105@gmail.com",
+    "phone": "+61 452 276 739",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "",
+      "city": "Sydney",
+      "state": "",
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/mariana.cerqueira.104/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/marianac1105/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/marianac1105/",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Kent Institute of Business & Technology, Sydney",
+        "degree": "Diploma of Information Technology (Multimedia) ",
+        "graduated": "",
+        "description": ""
+      },
+      {
+        "school": "UNEB University, Salvador-Brazil",
+        "degree": "Bachelor of Tourism and Hotel Management ",
+        "graduated": "",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Helloworld Travel Ltd",
+        "title": "Front End Developer",
+        "years": "April 2017 - Present",
+        "description": "Implemented franchisee’s websites and landing pages from concept through deployment. Translating design team's UX wireframes and mockups into resposnsive and interactive features."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "QBT",
+        "title": "IT Helpdesk Consultant",
+        "years": "December 2015 - April 2017",
+        "description": "Provided technical assistance and supportto corporate consultants and direct clients."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "70%"
       },
       {
         "name": "CSS",
         "level": "95%"
       },
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Sass",
+        "level": "95%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "95%"
       },
       {
-        "name": "MongoDB",
+        "name": "Bootstrap",
         "level": "80%"
       }
+      ,
+      {
+        "name": "Node JS",
+        "level": "55%"
+      },
+      {
+        "name": "GraphQL",
+        "level": "60%"
+      },
+      {
+        "name": "Gatsby",
+        "level": "50%"
+      }
+
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Blog",
+        "category": "Blog built with ReactJs, Gatsby, Sass, GraphQL, NodeJs. This website is integrated with  Contentful CMS API which allow the user to update the blog pages using the CMS",
+        "image": "Blog.png",
+        "url": "https://dreamy-poincare-a5a7b2.netlify.app/" 
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
-      }
-    ]
+        "title": "The travel shop at home",
+        "category": "Website built with Sitecore, Html, CSS, JS, Bootstrap. In this project, I have worked with the front end components only",
+        "image": "travel-shop.png",
+        "url": "https://thetravelshopathome.com.au/"
+      }]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "",
+        "user": ""
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "",
+        "user": ""
       }
     ]
   }
