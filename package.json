@@ -26,5 +26,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This is a ReactJS based personal portfolio",
+  "main": "index.js",
+  "author": "mariana cerqueira",
+  "license": "ISC"
 }
