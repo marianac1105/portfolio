@@ -26,18 +26,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "This is a ReactJS based personal portfolio",
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/marianac1105/portfolio.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/marianac1105/portfolio/issues"
-  },
-  "homepage": "https://github.com/marianac1105/portfolio#readme"
+  }
 }
