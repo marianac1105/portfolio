@@ -127,6 +127,24 @@
         "category": "Website built with Sitecore, Html, CSS, JS, Bootstrap. In this project, I have worked with the front end components only",
         "image": "travel-shop.png",
         "url": "https://thetravelshopathome.com.au/"
+      },
+      {
+        "title": "Drum Kit",
+        "category": "Drum kit page created using JavaScript",
+        "image": "Drum-kit.png",
+        "url": "https://marianac1105.github.io/Drum-kit/"
+      },
+      {
+        "title": "Simon Game",
+        "category": "A browser based version of the 1980's classic Simon Gmae. Built using JavaScript, JQuery, HTML5, and CSS3",
+        "image": "Simon-game.png",
+        "url": "https://marianac1105.github.io/simon-game/"
+      },
+      {
+        "title": "tindog",
+        "category": "Page built with Bootstrap, CSS3, HTML5",
+        "image": "Tindog.png",
+        "url": "https://marianac1105.github.io/TinDog/"
       }]
   },
   "testimonials": {
