@@ -118,9 +118,15 @@
     "projects": [
       {
         "title": "Blog",
-        "category": "Blog built with ReactJS, Gatsby, Sass, GraphQL, NodeJs. This website is integrated with  Contentful CMS API which allow the user to update the blog pages using the CMS",
+        "category": "Blog template built with ReactJS, Gatsby, Sass, GraphQL, NodeJs. This website is integrated with  Contentful CMS API which allow the user to update the blog pages using the CMS",
         "image": "Blog.png",
         "url": "https://dreamy-poincare-a5a7b2.netlify.app/" 
+      },
+      {
+        "title": "The Travel Shop at Home",
+        "category": "Travel agency website creted in Sitecore using html, CSS, JS and bootstrap. Created the front end UI components only",
+        "image": "travel-shop.png",
+        "url": "https://thetravelshopathome.com.au/" 
       },
       {
         "title": "To-Do List",
@@ -129,20 +135,26 @@
         "url": "https://quizzical-roentgen-9098b7.netlify.app/"
       },
       {
+        "title": "Keeper App",
+        "category": "Note generator, created with ReactJS, Material UI and Custom CSS ",
+        "image": "keeper.png",
+        "url": "https://youthful-almeida-86dbf7.netlify.app/"
+      },
+      {
         "title": "Drum Kit",
-        "category": "Drum kit page created using JavaScript",
+        "category": "Drum kit app created using JavaScript",
         "image": "Drum-kit.png",
         "url": "https://marianac1105.github.io/Drum-kit/"
       },
       {
         "title": "Simon Game",
-        "category": "A browser based version of the 1980's classic Simon Gmae. Built using JavaScript, JQuery, HTML5, and CSS3",
+        "category": "A browser based version of the 1980's classic Simon Game. Built using JavaScript, JQuery, HTML5, and CSS3",
         "image": "Simon-game.png",
         "url": "https://marianac1105.github.io/simon-game/"
       },
       {
         "title": "tindog",
-        "category": "Page built with Bootstrap, CSS3, HTML5",
+        "category": "web page built with Bootstrap, CSS3, HTML5",
         "image": "Tindog.png",
         "url": "https://marianac1105.github.io/TinDog/"
       }]
