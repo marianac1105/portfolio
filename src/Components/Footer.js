@@ -20,7 +20,7 @@ class Footer extends Component {
 
            
            <ul className="copyright">
-              <li> Built by Mariana Cerqueira © 2020</li>
+              <li>© 2020 Mariana Cerqueira</li>
              
            </ul>
 

@@ -117,6 +117,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Covid-19 tracker",
+        "category": "built with ReactJS, Material UI and API integration",
+        "image": "covidApp.png",
+        "url": "https://covid19-by-mcerqueira.netlify.app/" 
+      },
+      {
         "title": "Blog",
         "category": "Blog template built with ReactJS, Gatsby, Sass, GraphQL, NodeJs. This website is integrated with  Contentful CMS API which allow the user to update the blog pages using the CMS",
         "image": "Blog.png",
