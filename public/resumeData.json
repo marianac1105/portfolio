@@ -59,16 +59,22 @@
       {
         "company": "Helloworld Travel Ltd",
         "title": "Front End Developer",
-        "years": "April 2017 - Present",
-        "description": "Implemented franchisee’s websites and landing pages from concept through deployment. Translating design team's UX wireframes and mockups into resposnsive and interactive features."
+        "years": "JANUARY 2019 - Present",
+        "description": ""
+      },
+      {
+        "company": "Helloworld Travel Ltd",
+        "title": "Technical Consultant",
+        "years": "APRIL 2017 – JANUARY 2019",
+        "description": ""
       },
       {
         "company": "QBT",
         "title": "IT Helpdesk Consultant",
-        "years": "December 2015 - April 2017",
-        "description": "Provided technical assistance and supportto corporate consultants and direct clients."
+        "years": "DECEMBER 2015 – APRIL 2017",
+        "description": ""
       }
-    ],
+      ],
     "skills": [
       {
         "name": "ReactJS",
@@ -118,7 +124,7 @@
     "projects": [
       {
         "title": "Covid-19 tracker",
-        "category": "built with ReactJS, Material UI and API integration",
+        "category": "Built with ReactJS, Material UI and API integration",
         "image": "covidApp.png",
         "url": "https://covid19-by-mcerqueira.netlify.app/" 
       },
