@@ -129,6 +129,12 @@
         "url": "https://covid19-by-mcerqueira.netlify.app/" 
       },
       {
+        "title": "Github Repositories browser interface",
+        "category": "A browser interface that allow the user to filter and sort Github repositories from a specific Github account. On this example, I have used the Catalyst IT account. Built with ReactJS, Bootstrap and API integration",
+        "image": "repo-interface.png",
+        "url": "https://marianac-github-interface.netlify.app/" 
+      },
+      {
         "title": "Blog",
         "category": "Blog template built with ReactJS, Gatsby, Sass, GraphQL, NodeJs. This website is integrated with  Contentful CMS API which allow the user to update the blog pages using the CMS",
         "image": "Blog.png",
@@ -157,12 +163,6 @@
         "category": "Drum kit app created using JavaScript",
         "image": "Drum-kit.png",
         "url": "https://marianac1105.github.io/Drum-kit/"
-      },
-      {
-        "title": "Simon Game",
-        "category": "A browser based version of the 1980's classic Simon Game. Built using JavaScript, JQuery, HTML5, and CSS3",
-        "image": "Simon-game.png",
-        "url": "https://marianac1105.github.io/simon-game/"
       },
       {
         "title": "tindog",
