@@ -328,6 +328,10 @@ ul#nav li.current a { color: #cf7500; }
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
+
+.feature-item{
+   text-align: center;
+}
 /*
 .git {
   	-moz-animation: git 2s ease;
